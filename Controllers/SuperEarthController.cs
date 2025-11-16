@@ -21,7 +21,10 @@ namespace HelldiversApi.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var response = await _client.From<Superearth>().Get();
+            var response = await _client.From<Superearth>()
+            .Select("*")
+            .Order("id", Supabase.Postgrest.Constants.Ordering.Ascending)
+            .Get();
 
             // Mapeamos a DTO para evitar problemas de serialización
             var dto = response.Models.Select(s => new SuperearthDto

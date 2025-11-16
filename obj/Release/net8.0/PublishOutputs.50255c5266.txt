@@ -1,4 +1,5 @@
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/HelldiversApi
+/home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/publish/web.config
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/web.config
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/appsettings.Development.json
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/appsettings.json
@@ -6,6 +7,10 @@
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/appsettings.json
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/HelldiversApi.deps.json
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/HelldiversApi.runtimeconfig.json
+/home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/publish/appsettings.Development.json
+/home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/publish/appsettings.json
+/home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/publish/HelldiversApi.deps.json
+/home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/publish/publish/HelldiversApi.runtimeconfig.json
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/HelldiversApi.dll
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/HelldiversApi.deps.json
 /home/pablo/Escritorio/Programacion/Cuarto Curso/HD2/HelldiversApi/publish/HelldiversApi.runtimeconfig.json

@@ -1,7 +1,8 @@
 using Supabase.Postgrest.Models;
 using Supabase.Postgrest.Attributes;
 using System.Text.Json.Serialization;
-namespace HelldiversApi.Models
+
+namespace HelldiversApi.Models //Modelo igual al de la BBDD
 {
     [Table("Superearth")]
     public class Superearth : BaseModel

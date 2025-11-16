@@ -20,7 +20,10 @@ namespace HelldiversApi.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var response = await _client.From<Terminids>().Get();
+            var response = await _client.From<Terminids>()
+            .Select("*")
+            .Order("id", Supabase.Postgrest.Constants.Ordering.Ascending)
+            .Get();
 
             var dto = response.Models.Select(s => new TerminidsDto
             {

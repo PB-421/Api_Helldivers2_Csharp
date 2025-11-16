@@ -1,4 +1,4 @@
-public class TerminidsDto
+public class TerminidsDto //Dato usado en el programa
 {
     public int Id { get; set; }
     public bool Structure { get; set; }

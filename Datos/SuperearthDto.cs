@@ -1,4 +1,4 @@
-public class SuperearthDto
+public class SuperearthDto //Dato usado en el programa
 {
     public int Id { get; set; }
     public string Department { get; set; } = string.Empty;
